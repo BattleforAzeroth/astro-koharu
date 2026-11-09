@@ -74,6 +74,20 @@ categoryMap:
   前端: front-end
   CSS: css
   番剧: anime
+  # Migrated from Hexo
+  Linux: linux
+  Arch: arch
+  LLM: llm
+  实践经验: practice
+  本科作业: undergraduate
+  Python数学建模: python-math-modeling
+  操作系统: operating-system
+  计算机视觉: computer-vision
+  计算机图形学: computer-graphics
+  高效工具: high-efficiency
+  刷机相关: rooting
+  系统开发: system-development
+  研究生作业: graduate
   # Add more as needed:
   # 书摘: reading
   # 后端: back-end
